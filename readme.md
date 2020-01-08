@@ -1,5 +1,3 @@
-> Below is a list of some useful links I have found on CSS.
-
 # Some Useful Stuff
 ## CSS
 ### Flex-box 
