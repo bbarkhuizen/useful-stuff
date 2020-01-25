@@ -1,4 +1,12 @@
 # Some Useful Stuff
+## Angular
+### Components
+* [Developing a tabs component in Angular](https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
+* [Create a dynamic tab component with Angular](https://juristr.com/blog/2017/07/ng2-dynamic-tab-component/)
+### Templates and Containers
+* [Angular ng-template, ng-container and ngTemplateOutlet - The Complete Guide To Angular Templates](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
+* [ng-content: The hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
+* [Using Angular’s ng-content in conjunction with ngProjectAs attribute](https://medium.com/ignite-ui/using-ng-content-ngprojectas-1664d7c1d3b)
 ## CSS
 ### Flex-box 
 * [Common CSS Flexbox Layout Patterns with Example Code](https://tobiasahlin.com/blog/common-flexbox-patterns/)
