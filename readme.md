@@ -26,6 +26,8 @@
 * [Unordered List as a Timeline](https://css-tricks.com/snippets/css/unordered-list-as-a-timeline/)
 ### Tips & Tricks
 * [10 Awesome CSS3 Tricks](https://www.codementor.io/@codementorteam/10-awesome-css3-tricks-a2kow9z73)
+### Grids
+* [Responsive Grid Magazine Layout in Just 20 Lines of CSS](https://css-tricks.com/responsive-grid-magazine-layout-in-just-20-lines-of-css/)
 
 
 
