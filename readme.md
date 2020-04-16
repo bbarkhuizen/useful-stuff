@@ -1,5 +1,7 @@
 # Some Useful Stuff
 ## Angular
+### Services
+* [Dynamic Page Titles in Angular](https://blog.bitsrc.io/dynamic-page-titles-in-angular-98ce20b5c334)
 ### Components
 * [Developing a tabs component in Angular](https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
 * [Create a dynamic tab component with Angular](https://juristr.com/blog/2017/07/ng2-dynamic-tab-component/)
