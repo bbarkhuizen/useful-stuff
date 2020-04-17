@@ -33,6 +33,7 @@
 ## Git
 ### Books
 * [Pro Git](https://git-scm.com/book/)
+* [Create a new branch with git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
 
 
 
