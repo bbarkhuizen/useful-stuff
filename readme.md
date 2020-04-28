@@ -31,9 +31,11 @@
 ### Grids
 * [Responsive Grid Magazine Layout in Just 20 Lines of CSS](https://css-tricks.com/responsive-grid-magazine-layout-in-just-20-lines-of-css/)
 ## Git
+### Helpful
+* [Create a new branch with git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+* [Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 ### Books
 * [Pro Git](https://git-scm.com/book/)
-* [Create a new branch with git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
 
 
 
