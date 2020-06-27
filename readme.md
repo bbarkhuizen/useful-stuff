@@ -10,6 +10,8 @@
 * [ng-content: The hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
 * [Using Angular’s ng-content in conjunction with ngProjectAs attribute](https://medium.com/ignite-ui/using-ng-content-ngprojectas-1664d7c1d3b)
 ## CSS
+### Tricks
+* [Line-Animated Hamburger Menu](https://css-tricks.com/line-animated-hamburger-menu/)
 ### Flex-box 
 * [Common CSS Flexbox Layout Patterns with Example Code](https://tobiasahlin.com/blog/common-flexbox-patterns/)
 * [CSS masonry with flexbox, :nth-child(), and order](https://tobiasahlin.com/blog/masonry-with-css/)
