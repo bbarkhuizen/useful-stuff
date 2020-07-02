@@ -3,6 +3,7 @@
 ### Services
 * [Dynamic Page Titles in Angular](https://blog.bitsrc.io/dynamic-page-titles-in-angular-98ce20b5c334)
 ### Components
+* [Adding Suspense to Angular!](https://netbasal.com/adding-suspense-to-angular-%EF%B8%8F-%EF%B8%8F-1f34fd603584)
 * [Developing a tabs component in Angular](https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
 * [Create a dynamic tab component with Angular](https://juristr.com/blog/2017/07/ng2-dynamic-tab-component/)
 ### Templates and Containers
