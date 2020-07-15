@@ -12,7 +12,7 @@
 * [Using Angular’s ng-content in conjunction with ngProjectAs attribute](https://medium.com/ignite-ui/using-ng-content-ngprojectas-1664d7c1d3b)
 ## CSS
 ### Theming
-* [Adding dark theme](https://dev.to/dcodeyt/add-dark-mode-to-your-websites-with-css-5bh4)
+* [Add Dark Mode to your Websites with CSS](https://dev.to/dcodeyt/add-dark-mode-to-your-websites-with-css-5bh4)
 ### Tricks
 * [Line-Animated Hamburger Menu](https://css-tricks.com/line-animated-hamburger-menu/)
 ### Flex-box 
