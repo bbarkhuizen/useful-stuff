@@ -1,5 +1,8 @@
 # Some Useful Stuff
 ## Angular
+### State Management
+* [How I Got Rid of State Observables in Angular](https://indepth.dev/how-i-got-rid-of-state-observables-in-angular/)
+* [NGX5](https://www.ngxs.io/)
 ### Services
 * [Dynamic Page Titles in Angular](https://blog.bitsrc.io/dynamic-page-titles-in-angular-98ce20b5c334)
 ### Components
