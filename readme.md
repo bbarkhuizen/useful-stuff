@@ -13,6 +13,9 @@
 * [Angular ng-template, ng-container and ngTemplateOutlet - The Complete Guide To Angular Templates](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
 * [ng-content: The hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
 * [Using Angular’s ng-content in conjunction with ngProjectAs attribute](https://medium.com/ignite-ui/using-ng-content-ngprojectas-1664d7c1d3b)
+## Kafka
+### NodeJS
+* [How to implement a simple yet bulletproof Kafka Producer/Consumer cycle with nodeJS](https://medium.com/@jonathanferreira23/how-to-implement-a-bulletproof-kafka-producer-consumer-cycle-with-nodejs-81c58dd79dd3)
 ## CSS
 ### Theming
 * [Add Dark Mode to your Websites with CSS](https://dev.to/dcodeyt/add-dark-mode-to-your-websites-with-css-5bh4)
