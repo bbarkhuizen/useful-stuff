@@ -1,4 +1,10 @@
 # Some Useful Stuff
+1. [Architecture](#Architecture)
+1. [Angular](#Angular)
+
+## Architecture
+### Microfrontends
+* [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 ## Angular
 ### State Management
 * [How I Got Rid of State Observables in Angular](https://indepth.dev/how-i-got-rid-of-state-observables-in-angular/)
