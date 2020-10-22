@@ -1,6 +1,9 @@
 # Some Useful Stuff
 1. [Architecture](#Architecture)
 1. [Angular](#Angular)
+1. [Kafka](#Kafka)
+1. [CSS](#CSS)
+1. [GIT](#GIT)
 
 ## Architecture
 ### Microfrontends
