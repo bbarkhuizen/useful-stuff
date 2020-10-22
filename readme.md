@@ -5,7 +5,7 @@
 1. [GIT](#GIT)
 
 # Architecture
-## Microfrontends
+## Micro frontends
 * [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 * [Micro Frontends - extending the microservice idea to frontend development](https://micro-frontends.org/)
   * [Micro Frontends in Action](https://livebook.manning.com/book/micro-frontends-in-action/contents/)
