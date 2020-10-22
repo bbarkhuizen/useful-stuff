@@ -7,6 +7,7 @@
 # Architecture
 ## Microfrontends
 * [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
+* [Micro Frontends - extending the microservice idea to frontend development](https://micro-frontends.org/)
 # Angular
 ## State Management
 * [How I Got Rid of State Observables in Angular](https://indepth.dev/how-i-got-rid-of-state-observables-in-angular/)
