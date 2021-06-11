@@ -1,9 +1,12 @@
+1. [Articles](#Articles)
 1. [Architecture](#Architecture)
 1. [Angular](#Angular)
 1. [Kafka](#Kafka)
 1. [CSS](#CSS)
 1. [GIT](#GIT)
 
+# Articles
+* [Advanced Typescript](https://fettblog.eu/advanced-typescript-guide/)
 # Architecture
 ## Micro frontends
 * [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
