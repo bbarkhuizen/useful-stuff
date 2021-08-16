@@ -14,6 +14,7 @@
    * [Micro Frontends in Action](https://livebook.manning.com/book/micro-frontends-in-action/contents/)
  * [The Microfrontend Revolution: Module Federation in Webpack 5](https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/)
    * [Module Federation Plug-in](https://github.com/angular-architects/module-federation-plugin)
+   * [Video: The Microfrontend Revolution: Using Webpack 5 Module Federation with Angular | Manfred Steyer](https://www.youtube.com/watch?v=pD8VaBdU1f8)
  
 # Angular
 ## State Management
