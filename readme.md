@@ -11,9 +11,9 @@
 ## Micro frontends
 * [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 * [Micro Frontends - extending the microservice idea to frontend development](https://micro-frontends.org/)
-  * [Micro Frontends in Action](https://livebook.manning.com/book/micro-frontends-in-action/contents/)
+   * [Micro Frontends in Action](https://livebook.manning.com/book/micro-frontends-in-action/contents/)
  * [The Microfrontend Revolution: Module Federation in Webpack 5](https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-module-federation-in-webpack-5/)
-  * [Module Federation Plug-in](https://github.com/angular-architects/module-federation-plugin)
+   * [Module Federation Plug-in](https://github.com/angular-architects/module-federation-plugin)
  
 # Angular
 ## State Management
