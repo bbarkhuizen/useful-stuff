@@ -16,6 +16,7 @@
    * [Module Federation Plug-in](https://github.com/angular-architects/module-federation-plugin)
    * [NPM: @angular-architects/module-federation](https://www.npmjs.com/package/@angular-architects/module-federation)
    * [Video: The Microfrontend Revolution: Using Webpack 5 Module Federation with Angular | Manfred Steyer](https://www.youtube.com/watch?v=pD8VaBdU1f8)
+   * [Module Federation with Dynamic workflow](https://github.com/manfredsteyer/module-federation-with-angular-dynamic-workflow-designer)
  
 # Angular
 ## State Management
