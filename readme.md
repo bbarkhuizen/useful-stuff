@@ -34,6 +34,7 @@
 * [Using Angular’s ng-content in conjunction with ngProjectAs attribute](https://medium.com/ignite-ui/using-ng-content-ngprojectas-1664d7c1d3b)
 ## WebWorkers
 * [Angular CLI generated app with Web Workers](https://stackoverflow.com/questions/43276044/angular-cli-generated-app-with-web-workers)
+* [Angular-cli: How to work with web workers (use a web worker IN cli project)](https://bleepcoder.com/angular-cli/220357258/how-to-work-with-web-workers-use-a-web-worker-in-cli-project)
 
 # Kafka
 ## NodeJS
