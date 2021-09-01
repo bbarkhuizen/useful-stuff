@@ -1,6 +1,6 @@
 1. [Articles](#Articles)
 1. [Architecture](#Architecture)
-1. [Angular](#Angular_Typescript_Code)
+1. [Angular](#angulartypescriptcode)
 1. [Kafka](#Kafka)
 1. [CSS](#CSS)
 1. [GIT](#GIT)
