@@ -1,6 +1,6 @@
 1. [Articles](#Articles)
 1. [Architecture](#Architecture)
-1. [Angular](#Angular)
+1. [Angular](#Angular_Typescript_Code)
 1. [Kafka](#Kafka)
 1. [CSS](#CSS)
 1. [GIT](#GIT)
@@ -18,7 +18,7 @@
    * [Video: The Microfrontend Revolution: Using Webpack 5 Module Federation with Angular | Manfred Steyer](https://www.youtube.com/watch?v=pD8VaBdU1f8)
    * [Module Federation with Dynamic workflow](https://github.com/manfredsteyer/module-federation-with-angular-dynamic-workflow-designer)
  
-# Angular
+# Angular/Typescript/Code
 ## State Management
 * [How I Got Rid of State Observables in Angular](https://indepth.dev/how-i-got-rid-of-state-observables-in-angular/)
 * [NGXS](https://www.ngxs.io/)
@@ -32,6 +32,9 @@
 * [Angular ng-template, ng-container and ngTemplateOutlet - The Complete Guide To Angular Templates](https://blog.angular-university.io/angular-ng-template-ng-container-ngtemplateoutlet/)
 * [ng-content: The hidden docs](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
 * [Using Angular’s ng-content in conjunction with ngProjectAs attribute](https://medium.com/ignite-ui/using-ng-content-ngprojectas-1664d7c1d3b)
+## WebWorkers
+* [Angular CLI generated app with Web Workers](https://stackoverflow.com/questions/43276044/angular-cli-generated-app-with-web-workers)
+
 # Kafka
 ## NodeJS
 * [How to implement a simple yet bulletproof Kafka Producer/Consumer cycle with nodeJS](https://medium.com/@jonathanferreira23/how-to-implement-a-bulletproof-kafka-producer-consumer-cycle-with-nodejs-81c58dd79dd3)
