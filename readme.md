@@ -71,5 +71,8 @@
 ## Books
 * [Pro Git](https://git-scm.com/book/)
 
-
+# Firebase
+## Helpful stuff
+* [Firebase Console][https://console.firebase.google.com/]
+* [Angular and Firebase Authentication Integration][https://www.securecoding.com/blog/angular-firebase-authentication-integration/]
 
