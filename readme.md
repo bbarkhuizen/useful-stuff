@@ -4,6 +4,7 @@
 1. [Kafka](#Kafka)
 1. [CSS](#CSS)
 1. [GIT](#GIT)
+1. [Firebase](#Firebase)
 
 # Articles
 * [Advanced Typescript](https://fettblog.eu/advanced-typescript-guide/)
@@ -73,6 +74,6 @@
 
 # Firebase
 ## Helpful stuff
-* [Firebase Console][https://console.firebase.google.com/]
-* [Angular and Firebase Authentication Integration][https://www.securecoding.com/blog/angular-firebase-authentication-integration/]
+* [Firebase Console](https://console.firebase.google.com/)
+* [Angular and Firebase Authentication Integration](https://www.securecoding.com/blog/angular-firebase-authentication-integration/)
 
