@@ -77,3 +77,4 @@
 * [Firebase Console](https://console.firebase.google.com/)
 * [Angular and Firebase Authentication Integration](https://www.securecoding.com/blog/angular-firebase-authentication-integration/)
 * [Building a web application with Angular and Firebase](https://developers.google.com/codelabs/building-a-web-app-with-angular-and-firebase#0)
+* [Angular CRUD with Firebase](https://angular-templates.io/tutorials/about/angular-crud-with-firebase)
