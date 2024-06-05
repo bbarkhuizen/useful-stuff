@@ -22,6 +22,7 @@
 * [Module Federation with Angular’s Standalone Components](https://www.angulararchitects.io/en/blog/module-federation-with-angulars-standalone-components/)
 * [Micro Frontends with Modern Angular – Part 1: Standalone and esbuild](https://www.angulararchitects.io/en/blog/micro-frontends-with-modern-angular-part-1-standalone-and-esbuild/)
 * [@angular-architects/module-federation](https://www.npmjs.com/package/@angular-architects/module-federation)
+* [Advanced Angular Micro Frontends with Dynamic Module Federation](https://nx.dev/recipes/angular/dynamic-module-federation-with-angular)
 
 # Angular/Typescript/Code
 ## State Management
