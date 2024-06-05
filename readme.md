@@ -36,6 +36,10 @@
 ## WebWorkers
 * [Angular CLI generated app with Web Workers](https://stackoverflow.com/questions/43276044/angular-cli-generated-app-with-web-workers)
 * [Angular-cli: How to work with web workers (use a web worker IN cli project)](https://bleepcoder.com/angular-cli/220357258/how-to-work-with-web-workers-use-a-web-worker-in-cli-project)
+## Module Federation
+* [Module Federation with Angular’s Standalone Components](https://www.angulararchitects.io/en/blog/module-federation-with-angulars-standalone-components/)
+* [Micro Frontends with Modern Angular – Part 1: Standalone and esbuild](https://www.angulararchitects.io/en/blog/micro-frontends-with-modern-angular-part-1-standalone-and-esbuild/)
+* [@angular-architects/module-federation](https://www.npmjs.com/package/@angular-architects/module-federation)
 
 # Kafka
 ## NodeJS
