@@ -18,7 +18,11 @@
    * [NPM: @angular-architects/module-federation](https://www.npmjs.com/package/@angular-architects/module-federation)
    * [Video: The Microfrontend Revolution: Using Webpack 5 Module Federation with Angular | Manfred Steyer](https://www.youtube.com/watch?v=pD8VaBdU1f8)
    * [Module Federation with Dynamic workflow](https://github.com/manfredsteyer/module-federation-with-angular-dynamic-workflow-designer)
- 
+ ## Module Federation
+* [Module Federation with Angular’s Standalone Components](https://www.angulararchitects.io/en/blog/module-federation-with-angulars-standalone-components/)
+* [Micro Frontends with Modern Angular – Part 1: Standalone and esbuild](https://www.angulararchitects.io/en/blog/micro-frontends-with-modern-angular-part-1-standalone-and-esbuild/)
+* [@angular-architects/module-federation](https://www.npmjs.com/package/@angular-architects/module-federation)
+
 # Angular/Typescript/Code
 ## State Management
 * [How I Got Rid of State Observables in Angular](https://indepth.dev/how-i-got-rid-of-state-observables-in-angular/)
@@ -36,10 +40,6 @@
 ## WebWorkers
 * [Angular CLI generated app with Web Workers](https://stackoverflow.com/questions/43276044/angular-cli-generated-app-with-web-workers)
 * [Angular-cli: How to work with web workers (use a web worker IN cli project)](https://bleepcoder.com/angular-cli/220357258/how-to-work-with-web-workers-use-a-web-worker-in-cli-project)
-## Module Federation
-* [Module Federation with Angular’s Standalone Components](https://www.angulararchitects.io/en/blog/module-federation-with-angulars-standalone-components/)
-* [Micro Frontends with Modern Angular – Part 1: Standalone and esbuild](https://www.angulararchitects.io/en/blog/micro-frontends-with-modern-angular-part-1-standalone-and-esbuild/)
-* [@angular-architects/module-federation](https://www.npmjs.com/package/@angular-architects/module-federation)
 
 # Kafka
 ## NodeJS
